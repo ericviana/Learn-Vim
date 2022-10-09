@@ -68,6 +68,9 @@ If you want to financially support this project, you can [purchase this guide on
 - [Learn-Vim 中文翻译](https://github.com/wsdjeg/Learn-Vim_zh_cn)(`zh-CN`)
 - [Learn-Vim Spanish](https://github.com/victorhck/learn-Vim-es)(`es`)
 
+## Additional Tool
+- [Vimium] (https://github.com/philc/vimium)
+
 ## License & Copyright
 The materials here are all © 2020-2021 Igor Irianto.
 
